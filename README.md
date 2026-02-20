@@ -1,6 +1,6 @@
 # Name: Harshada P K
 # Reg No: 212224060097
-# Experiment 1
+# Experiment No: 1
 # Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
